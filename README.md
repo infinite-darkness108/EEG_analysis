@@ -1,2 +1,3 @@
 # EEG_analysis
-using MNE python library
+
+Final Year Project codes. Will complete this repository in a month.
